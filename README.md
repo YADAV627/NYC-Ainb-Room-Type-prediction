@@ -4,7 +4,7 @@ An end-to-end Machine Learning project that predicts the room type of an Airbnb 
 
 ## 🚀 Live Demo
 
-👉 [Open Live Application]("https://nyc-airbnb-room-type-predictor.onrender.com")
+👉 [Open Live Application]("https://nyc-ainb-room-type-prediction-4.onrender.com")
 
 ## 🔗 Backend API
 
